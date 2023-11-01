@@ -2,7 +2,7 @@
 
 
 
-
+-![DEVELOPER](https://www.google.com/url?sa=i&url=https://www.sodiuswillert.com/en/blog/engineering-collaboration-important-software-development&psig=AOvVaw04dLt9dYNT_OtC8PQ4PO1t&ust=1698920399482000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCMC-z-7JooIDFQAAAAAdAAAAABAw)
 - 🌱 I’m currently learning Web development and java 
 -😇 currently member of GDSC(MMDU)
 
@@ -10,4 +10,4 @@
 - 📫 How to reach me: Twitter -@vishu032004](https://twitter.com/vishu032004) Linkdin - https://www.linkedin.com/in/vaishnavi-vaishnavi-686630250/ 
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: I like to do painting 
-img src-https://semidotinfotech.com/blog/wp-content/uploads/2022/12/what-is-web-development.png
+
