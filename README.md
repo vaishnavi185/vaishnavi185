@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭I'm currently working on Node.js, express. js<br>😎I'm  ex core team member of GDSC MMDU.<br>😇 I am  a front-end developer <br>⭐ I know about Flutter, MySQL, Java,html,css, Figma, ReactJS,nodejs
+🔭I'm currently working on Node.js, express. js<br>😎I'm  ex core team member of GDSC MMDU.<br>😇 I am  a front-end developer <br>⭐ I know about Flutter, MySQL, Java, HTML, CSS, Figma, ReactJS, NodeJS
 
 
 ## 🌐 Socials:
