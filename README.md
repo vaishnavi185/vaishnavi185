@@ -1,11 +1,14 @@
-# 👋 Hi, I'm Vaishnavi
+# 💫 Welcome to My Coding Universe!  
+🚀 Where Design Meets Development & Data Science
 
-🌱 I am a **MERN Stack Developer | UI/UX Designer | Frontend Developer**  
-🚀 Completed projects in UI/UX design, frontend development, and MERN Stack  
-📊 Currently learning **Data Science** to broaden my skill set  
-⭐ Passionate about building beautiful and functional web applications  
+---
 
+## 🙋‍♀️ About Me
 
+✨ I'm a **MERN Stack Developer | UI/UX Designer | Frontend Developer**  
+🚀 Completed UI/UX, Frontend, MERN Stack projects and currently learning Data Science  
+🌱 Passionate about building functional and beautiful digital experiences  
+🎯 Ex Core Team Member at GDSC MMDU  
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/vaishnavi_me_18) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/inkedin.com/in/vaishnavi-vaishnavi-686630250/) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/https://twitter.com/vishu032004) 
